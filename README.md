@@ -21,5 +21,4 @@ Aplikasi sederhana untuk mencatat pemasukan dan pengeluaran target tabungan, dib
 Menggunakan pola **MVC (Modular)**:
 - `src/controllers`: Logika bisnis.
 - `src/routes`: Pengaturan jalur URL.
-- `src/views`: Tampilan frontend (public).
 - `data/`: Penyimpanan JSON.
